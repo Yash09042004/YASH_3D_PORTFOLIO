@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bulbasaur by Stam
+* source:	https://sketchfab.com/3d-models/bulbasaur-by-stam-5d1e77d5bd6d499db39b0133ef902849
+* author:	stam3D (https://sketchfab.com/stam3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bulbasaur by Stam" (https://sketchfab.com/3d-models/bulbasaur-by-stam-5d1e77d5bd6d499db39b0133ef902849) by stam3D (https://sketchfab.com/stam3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
